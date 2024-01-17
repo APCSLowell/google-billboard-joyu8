@@ -9,7 +9,7 @@ public class GoogleBillboard {
         System.out.println(dNum + " is prime");
         break;
       }
-    };
+    }
 	}
 
 
