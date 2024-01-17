@@ -21,6 +21,7 @@ public class GoogleBillboard {
       return false;
     }
   } 
+		return true;
 	}
 
 }
